@@ -1,0 +1,5 @@
+<?xml version = "1.0"?>
+<config>
+	<!-- <className>adapterPattern.PoliceCarAdapter</className> -->
+	<className>adapterPattern.AmbulanceCarAdapter</className>
+</config>
